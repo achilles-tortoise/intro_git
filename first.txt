@@ -3,3 +3,4 @@ am practing basic work flow
 git add
 git commit
 git rm
+git diff
